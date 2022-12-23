@@ -17,7 +17,7 @@
 .main-content {
     width: 90%;
     display: grid;
-    grid-template-columns: 30% 70%;
+    grid-template-columns: 300px 700px ;
     min-height: 1000px;
     margin: 20px auto;
 }
@@ -91,6 +91,10 @@ section {
 
 .skills {
     margin: 0px 30px;
+    font-size: 0.75rem;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1rem 0.5rem;
 }
 
 .skills-title {
