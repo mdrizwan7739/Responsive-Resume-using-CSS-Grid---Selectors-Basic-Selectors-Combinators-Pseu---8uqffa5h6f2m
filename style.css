@@ -17,6 +17,7 @@
 .main-content {
     width: 90%;
     display: grid;
+    justify-content: center;
     grid-template-columns: 300px 700px ;
     min-height: 1000px;
     margin: 20px auto;
